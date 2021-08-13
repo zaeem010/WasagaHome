@@ -597,9 +597,12 @@
     <Content Include="Content\assets\js\slick.min.js" />
     <Content Include="Content\assets\js\waypoints.min.js" />
     <Content Include="Content\assets\js\wow.min.js" />
+    <Content Include="Content\Img\Calendly.png" />
+    <Content Include="Content\Img\Calendly2.png" />
     <Content Include="Content\Img\Floorplan.jpg" />
-    <Content Include="Content\Img\Himg.jpg" />
+    <Content Include="Content\Img\Himg.jpeg" />
     <Content Include="Content\Img\Siteplan.jpg" />
+    <Content Include="Content\Img\Wasega.jpg" />
     <Content Include="Content\style.css" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
@@ -641,7 +644,7 @@
     <Content Include="Views\_ViewStart.cshtml" />
     <Content Include="Views\Shared\Error.cshtml" />
     <Content Include="Views\Shared\_Layout.cshtml" />
-    <Content Include="Views\Home\About.cshtml" />
+    <Content Include="Views\Home\Form.cshtml" />
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Account\_ExternalLoginsListPartial.cshtml" />
