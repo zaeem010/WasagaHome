@@ -600,8 +600,11 @@
     <Content Include="Content\Img\Calendly.png" />
     <Content Include="Content\Img\Calendly2.png" />
     <Content Include="Content\Img\Floorplan.jpg" />
+    <Content Include="Content\Img\Front.jpg" />
+    <Content Include="Content\Img\Front.png" />
     <Content Include="Content\Img\Himg.jpeg" />
     <Content Include="Content\Img\Siteplan.jpg" />
+    <Content Include="Content\Img\Slider.jpeg" />
     <Content Include="Content\Img\Wasega.jpg" />
     <Content Include="Content\style.css" />
     <Content Include="favicon.ico" />
