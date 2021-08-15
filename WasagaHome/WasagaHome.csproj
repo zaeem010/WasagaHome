@@ -605,6 +605,8 @@
     <Content Include="Content\Img\Himg.jpeg" />
     <Content Include="Content\Img\Siteplan.jpg" />
     <Content Include="Content\Img\Slider.jpeg" />
+    <Content Include="Content\Img\wasaga1.jpg" />
+    <Content Include="Content\Img\wasaga2.jpg" />
     <Content Include="Content\Img\Wasega.jpg" />
     <Content Include="Content\style.css" />
     <Content Include="favicon.ico" />
